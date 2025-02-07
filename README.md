@@ -3,4 +3,4 @@
 
 <img src="https://github.com/Tirth-2005/Shoot-Z/blob/master/TemplateData/s1.png" alt="Game Play" />
 
-# Play on:: https://tirth-2005.github.io/Shoot-Z/
+### Play on:: https://tirth-2005.github.io/Shoot-Z/
